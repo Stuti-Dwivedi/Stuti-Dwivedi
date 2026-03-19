@@ -81,4 +81,4 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Stuti-Dwivedi&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Stuti-Dwivedi&theme=onedark)
